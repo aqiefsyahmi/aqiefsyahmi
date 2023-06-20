@@ -28,7 +28,7 @@
 
 ---
 ### :man_technologist: About Me :
-I am Freelance Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Malaysia <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/sony/336/flag-malaysia_1f1f2-1f1fe.png" width="25px"/>.
+I am Freelance Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Malaysia <img src="https://static.vecteezy.com/system/resources/previews/011/571/450/large_2x/circle-flag-of-malaysia-free-png.png" width="20px"/>.
 - :man_student: I’m computer science (software development) student at UniSZA.
 
 - :electron: I love to explore new things like learning programming language.
