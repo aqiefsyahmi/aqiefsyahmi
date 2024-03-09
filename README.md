@@ -2,7 +2,7 @@
   <img src="https://media1.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47iv0i96xaisms5d87vvpn0joobqaenmly65s311o1&rid=giphy.gif&ct=s" width="101"/>
 </div>
 <div align="center">
-  <a href="https://www.linkedin.com/in/aqief-syahmi-1b61b21a4">
+  <a href="[https://www.linkedin.com/in/aqief-syahmi-1b61b21a4](https://www.linkedin.com/in/aqief-syahmi-1b61b21a4?original_referer=)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/@aqiefsyahmi/featured">
