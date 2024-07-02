@@ -50,12 +50,34 @@ I am Freelance Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/></a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/JavaScript">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/MySQL">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/Node.js">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/></a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/Git">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/SQLite">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" **alt="sqlite" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" **alt="bootstrap" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Project_Jupyter">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Project Jupyter" **alt="jupyter" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/PostgreSQL">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/SQLAlchemy">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" **alt="SQLAlchemy" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Tailwind_CSS">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" **alt="Tailwind CSS" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/TensorFlow">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" **alt="TensorFlow" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Vite_(software)">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" **alt="Vite" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" **alt="Visual Studio Code" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Unity_(game_engine)">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" **alt="Unity" width="40" height="40"/></a>
 </div>
 
 ---
@@ -66,11 +88,16 @@ I am Freelance Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aqiefsyahmi&theme=dark)](https://github.com/aqiefsyahmi/github-readme-stats)
 </div>
-
+<!--delete this
 ---
+delete this-->
+<!--delete this
 ### :writing_hand: Blog Posts :
+delete this-->
 <!-- BLOG-POST-LIST:START -->
+<!--delete this
 - <a href="https://media.tenor.com/ZX95mDnlodwAAAAd/the-rock-sus-eye.gif">
   Nothing to see here yet :eyes:
 </a>
+delete this-->
 <!-- BLOG-POST-LIST:END -->
