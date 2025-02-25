@@ -84,7 +84,7 @@ I am Freelance Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### :fire: My Stats :
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aqiefsyahmi&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aqiefsyahmi&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aqiefsyahmi&theme=dark)](https://github.com/aqiefsyahmi/github-readme-stats)
 </div>
