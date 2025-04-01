@@ -35,7 +35,7 @@ I am Freelance Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: In my free time, I solve problems in my university project and stuff.
 
-- :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-aqiefsyahmi-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/aqief-syahmi-1b61b21a4](https://my.linkedin.com/in/aqief-syahmi-1b61b21a4))
+- :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-aqiefsyahmi-blue?style=flat&logo=Linkedin&logoColor=white)](https://my.linkedin.com/in/aqief-syahmi-1b61b21a4)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
